@@ -1,16 +1,77 @@
-## Hi there 👋
+Hi there! 👋 I'm Aman Singh Chauhan
 
-<!--
-**Aman3007/Aman3007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a dedicated Full Stack Web Developer (MERN Stack) with hands-on experience building scalable, production-grade web applications. I specialize in JavaScript, Java, REST APIs, and secure authentication architectures. Currently, I work as a Freelance Full Stack Developer, delivering real-world products with clean code, high performance, and intuitive UI/UX.
 
-Here are some ideas to get you started:
+🔭 Currently Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+AI-Powered Voice Notes App (MERN + Groq Whisper AI)
+A real-time speech-to-text platform with JWT auth, MongoDB indexing, and cloud deployment.
+Live: https://voice-to-text-notesapp-front.onrender.com/
+
+ATS Resume Builder (MERN + Puppeteer)
+A complete resume builder with live preview and PDF generation using headless Chromium.
+Live: https://ats-resume-builder-front.onrender.com/
+
+Learning more about Next.js, WebSockets, and Microservices architecture
+
+You can find all repositories:
+GitHub: https://github.com/Aman3007
+
+🌱 Skills & Technologies
+Languages
+
+Java (Proficient), JavaScript, TypeScript, C++, Python
+
+Frontend
+
+React.js, Next.js, HTML5, CSS3, TailwindCSS, Bootstrap, jQuery, React Query, Context API, Vite
+
+Backend
+
+Node.js, Express.js, MongoDB, MySQL, REST APIs, JWT Authentication
+
+Tools & Others
+
+Git & GitHub, Puppeteer, Axios, Replit, Deployment (Render, Netlify), DSA Foundations
+
+🚀 Featured Projects
+AI-Powered Voice Notes App (MERN + Groq Whisper AI)
+
+Real-time audio transcription with 95%+ accuracy and fast MongoDB querying.
+Demo: https://voice-to-text-notesapp-front.onrender.com/
+
+ATS Resume Builder (MERN + Puppeteer)
+
+Dynamic forms, live preview, and perfect PDF export.
+Demo: https://ats-resume-builder-front.onrender.com/
+
+SlotSwapper — MERN Calendar Slot Swapping App
+
+Peer-to-peer scheduling app with secure slot transfers.
+Demo: https://slotswapper-frontend-4zls.onrender.com/
+
+Whisper App — Secret Sharing Platform
+
+Anonymous, secure MERN-based secret sharing app.
+Demo: https://my-whisper-app.onrender.com/
+
+Advanced E-Commerce Frontend
+
+Product filtering, search, cart system, and responsive design.
+Demo: https://gorgeous-marshmallow-fad2d0.netlify.app/
+
+Other Projects
+
+REST API Project
+
+Student Directory Search (Next.js): https://nextjs-hksc.onrender.com/
+
+Realtime Chat App (Socket.io): https://chattingappfront.onrender.com/
+
+📫 Get In Touch
+
+LinkedIn: https://www.linkedin.com/in/aman-chauhan-068996924b/
+
+Portfolio: https://dulcet-kringle-c7f2ac.netlify.app/
+
+Email: amanchauhan30072002@gmail.com
