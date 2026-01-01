@@ -61,6 +61,6 @@ Demo: https://my-whisper-app.onrender.com/
 
 LinkedIn: https://www.linkedin.com/in/aman-chauhan-068996924b/
 
-Portfolio: https://dulcet-kringle-c7f2ac.netlify.app/
+Portfolio: [https://dulcet-kringle-c7f2ac.netlify.app/](https://aman-mern-portfolio.netlify.app/)
 
 Email: amanchauhan30072002@gmail.com
