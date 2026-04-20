@@ -3,14 +3,7 @@
 I'm a dedicated Full Stack Web Developer (MERN Stack) with hands-on experience building scalable, production-grade web applications. I specialize in JavaScript, Java, REST APIs, and secure authentication architectures. Currently, I work as a Freelance Full Stack Developer, delivering real-world products with clean code, high performance, and intuitive UI/UX.
 
 🔭 ##**Currently Working On**
-
-AI-Powered Voice Notes App (MERN + Groq Whisper AI)
-A real-time speech-to-text platform with JWT auth, MongoDB indexing, and cloud deployment.
-Live: https://voice-to-text-notesapp-front.onrender.com/
-
-ATS Resume Builder (MERN + Puppeteer)
-A complete resume builder with live preview and PDF generation using headless Chromium.
-Live: https://ats-resume-builder-front.onrender.com/
+Pryvo – Production-Ready Dating App (React Native CLI)
 
 ##**Learning more about Next.js, WebSockets, and Microservices architecture**
 
