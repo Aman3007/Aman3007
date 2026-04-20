@@ -1,6 +1,6 @@
 ##**Hi there! 👋 I'm Aman Singh Chauhan**
 
-I'm a dedicated Full Stack Web Developer (MERN Stack) with hands-on experience building scalable, production-grade web applications. I specialize in JavaScript, Java, REST APIs, and secure authentication architectures. Currently, I work as a Freelance Full Stack Developer, delivering real-world products with clean code, high performance, and intuitive UI/UX.
+Full Stack MERN Developer with hands-on experience designing, building, and deploying production-grade applications using JavaScript, React, React Native, Next.js, Node.js, and MongoDB. Proficient in developing scalable RESTful APIs, implementing secure JWT-based authentication, and applying strong analytical and problem-solving skills to deliver robust, efficient solutions.
 
 🔭 ##**Currently Working On**
 Pryvo – Production-Ready Dating App (React Native CLI)
