@@ -54,6 +54,6 @@ Demo: https://my-whisper-app.onrender.com/
 
 LinkedIn: https://www.linkedin.com/in/aman-chauhan-068996924b/
 
-Portfolio: [https://aman-mern-portfolio.netlify.app/](https://portfolio-nu-ashen-81.vercel.app/)
+Portfolio: [https://Aman-Singh-Chauhan-portfolio/](https://portfolio-nu-ashen-81.vercel.app/)
 
 Email: amanchauhan30072002@gmail.com
